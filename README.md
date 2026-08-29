@@ -24,5 +24,5 @@ Below are the layout views of the routed design:
 ![3D Layers](images/3D%20Layers.jpg)
 
 ## Repository Structure
-*   `src/`: Contains your Verilog source files (`branchcomparator.v`).
+*   `src/`: Contains Verilog source files (`branchcomparator.v`).
 *   `images/`: Contains the block diagram, simulation waveforms, and 2D/3D layout views.
